@@ -8,6 +8,7 @@ void getinput(double * sh_width, double * sh_height, double * sl_widht, double *
     scanf("%lf %lf", sl_widht, sl_height);
     printf("Overlap:\n");
     scanf("%lf", overlap);
+
 }
 
 int main()
